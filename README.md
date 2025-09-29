@@ -21,8 +21,8 @@
 
 
 <!-- MasterHead -->
-<a href="https://github.com/odanrley/teste/blob/main/back7.gif">
-  <img src="https://github.com/odanrley/teste/blob/main/back7.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+<a href="https://github.com/danrleyof/teste/blob/main/back7.gif">
+  <img src="https://github.com/danrleyof/teste/blob/main/back7.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
 
 
@@ -51,7 +51,7 @@
 </div>
 </br>
 
-<img src="https://github.com/odanrley/teste/blob/main/pingu.gif" width=300 align="left">
+<img src="https://github.com/danrleyof/teste/blob/main/pingu.gif" width=300 align="left">
 <div align="center">
 
 **Who Am I?**
@@ -68,7 +68,7 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
 </br>
 
 <!-- Gif  -->
-<img align="right" alt="capa-Sobre" width="300" src="https://github.com/odanrley/teste/blob/main/16bit.gif"></br>
+<img align="right" alt="capa-Sobre" width="300" src="https://github.com/danrleyof/teste/blob/main/16bit.gif"></br>
 
 <!-- A Little More About Me -->
  <h3 align="center">
@@ -173,15 +173,15 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
 [![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Universidade%20Norte%20do%20Paraná&course=Software%20Engineering&degree=Bachelor&progress=50%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ55QsJsjq0FZmgT87x7M8UDfRdvIY7Vhem5aoICcD2ELWxyGqm4MbHUuALRDqckoEhwag&usqp=CAU)]()
 [![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Technical%20School&course=Systems%20Development&degree=Technical&progress=95%25&img=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-o_hfr7FQhWJMWhp6Dq28IWTvHXpO26XN9Vaq7VC5bTBStXtrcCSP4T5eWWS-aRU11NI&usqp=CAU)]()
 
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Faculdade%20de%20Informática%20e%20Administração%20Paulista&course=Software%20Engineering&degree=NNO%20Course&progress=35%25&img=https://github.com/odanrley/teste/blob/main/fiap5.png?raw=true)]()
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Faculdade%20de%20Informática%20e%20Administração%20Paulista&course=Big%20Data%20e%20Analytics&degree=NNO%20Course&progress=62%25&img=https://github.com/odanrley/teste/blob/main/fiap5.png?raw=true)]()
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Faculdade%20de%20Informática%20e%20Administração%20Paulista&course=Software%20Engineering&degree=NNO%20Course&progress=35%25&img=https://github.com/danrleyof/teste/blob/main/fiap5.png?raw=true)]()
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Faculdade%20de%20Informática%20e%20Administração%20Paulista&course=Big%20Data%20e%20Analytics&degree=NNO%20Course&progress=62%25&img=https://github.com/danrleyof/teste/blob/main/fiap5.png?raw=true)]()
 [![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Udemy&course=ReactJS%2018%20e%20TypeScript&degree=NNO%20Course&progress=100%25&img=https://foxfio.com/wp-content/uploads/2023/05/Udemy-Personal-Plan-foxfiocom.png)]()
 
 <!-- vsc -->
 <h3 align="center">Vibe 🍂 </h3>
 
 <p align="center">
-  <a href="https://vsco.co/danrleyof/"> <img align="center" src="https://github.com/odanrley/teste/blob/main/vsc2.png" height="40" width="180" alt="danrleyof" /></a>
+  <a href="https://vsco.co/danrleyof/"> <img align="center" src="https://github.com/danrleyof/teste/blob/main/vsc2.png" height="40" width="180" alt="danrleyof" /></a>
 </p>
 
 <sub>by [Wellington Danrley](https://danrley.vercel.app)</sub>
