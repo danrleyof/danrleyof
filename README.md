@@ -118,7 +118,12 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
 
 
 <!-- git stat-->
-<h3 align="center">🌱 Github Status</h3>
+<h3 align="center">
+<img src="./assets/icons/github-white.svg" width=18>
+ Github Status 
+<img src="./assets/icons/github-black.svg" width=22>
+</h3>
+
 <br>
 <div align="center">
   <img width="398" src="https://github-readme-stats.vercel.app/api?username=danrleyof&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
@@ -135,7 +140,11 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
 
 
 <!-- lang-->
-<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
+<h3 align="center">
+ <img src="./assets/icons/stack-white.svg" width=17>
+ Languages & tools I Have placed My Hands On
+ <img src="./assets/icons/stack-black.svg" width=20>
+</h3>
 
 <br/>
 
