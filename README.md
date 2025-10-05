@@ -194,7 +194,7 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
 [![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=Udemy&course=ReactJS%2018%20e%20TypeScript&degree=NNO%20Course&progress=100%25&img=https://foxfio.com/wp-content/uploads/2023/05/Udemy-Personal-Plan-foxfiocom.png)]()
 
 <!-- vsc -->
-<h3 align="center">Vibe 🍂 </h3>
+<h3 align="center">Vibe</h3>
 
 <p align="center">
   <a href="https://vsco.co/danrleyof/"> <img align="center" src="https://github.com/danrleyof/danrleyof/blob/main/vsc4.png" height="60" width="180" alt="danrleyof" /></a>
