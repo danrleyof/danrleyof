@@ -90,7 +90,7 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
   <a href="https://www.linkedin.com/in/wellingtondanrley" target="_blank">
     <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a> 
 
-<a href="https://danrley.vercel.app" target="_blank">
+<a href="https://danrley.cloud" target="_blank">
     <img width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFggf9yNRN9xCYku8XMEkSE0LU9uMhkYbehQ&s" alt="LinkedIn" /></a> 
 
 <a href="https://open.spotify.com/playlist/3toIofy1s8GUjmuTmcL8P2?si=qalyEP0uQFq6EKjEhiovOA" target="_blank">
