@@ -156,13 +156,13 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
 
   <h3>
    <img src="./assets/icons/bookmark-white.svg" width="12px">
-   My Best Repositories
+   Repositories
    <img src="./assets/icons/bookmark-black.svg" width="14px">
   </h3></br>
 
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/danrleyof/pac22-browser">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=danrleyof&repo=pac22-browser&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=danrleyof&repo=pac22-browser&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
     </a>
 </div>
 
