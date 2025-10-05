@@ -197,7 +197,7 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
 <h3 align="center">Vibe 🍂 </h3>
 
 <p align="center">
-  <a href="https://vsco.co/danrleyof/"> <img align="center" src="https://github.com/danrleyof/danrleyof/blob/main/vsc3.png" height="60" width="180" alt="danrleyof" /></a>
+  <a href="https://vsco.co/danrleyof/"> <img align="center" src="https://github.com/danrleyof/danrleyof/blob/main/vsc4.png" height="60" width="180" alt="danrleyof" /></a>
 </p>
 
 <p align="center">
