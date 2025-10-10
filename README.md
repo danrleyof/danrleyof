@@ -115,7 +115,7 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
     <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom2_rounded.png" alt="HGS Logo" width="355" style="border-radius: 10px;">
 </div>-->
 
-
+</br>
 
 <!-- git stat-->
 <h3 align="center">
