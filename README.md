@@ -171,11 +171,11 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
 
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/danrleyof/pac22-browser">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=danrleyof&repo=pac22-browser&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=1c1c1c" />
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=danrleyof&repo=pac22-browser&theme=nord&hide_border=false&title_color=ffffff&icon_color=ffffff&text_color=ffffff" />
     </a>
 </div>
 
-<!-- Academic Training-->
+<!-- Academic Training  &theme=nord&hide_border=false  theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=1c1c1c-->
 <h3 align="center">
 <img src="./assets/icons/graduation-white.svg" width=25>
  Academic Training
