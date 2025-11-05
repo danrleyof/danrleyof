@@ -99,7 +99,8 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
 <a href="https://x.com/danrleyof" target="_blank">
   <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" alt="X Badge"></a>
 
-
+<a href="https://gist.github.com/danrleyof" target="_blank">
+  <img width="60px" src="https://github.com/danrleyof/danrleyof/blob/main/gists.png" alt="Gists Badge"></a>
   
   <!--<a href="https://joshuathadi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
 -->
