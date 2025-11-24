@@ -150,10 +150,10 @@ Today, my focus is on `Back-End Development`, where I get to work with logic, st
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,gitlab,react,nextjs,figma" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,react,nextjs,figma" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" /><br>
     <img src="https://skillicons.dev/icons?i=c,kali,arch,ubuntu,python,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,nano,vim,debian,pwsh,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,vim,debian,pwsh,mysql" /><br>
 </div>
 
 <br/>
